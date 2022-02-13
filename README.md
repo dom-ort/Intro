@@ -1,5 +1,5 @@
 # Intro
-Beginner data analyst undergoing a career change from education
-I enjoy jazz and hikes, when the weather is agreeable
-Love to learn and am currently loving learning sql, R, Tableau and python
-Full blooded hispanic but cannot speak my ancestral tongue!
+Beginner data analys, and eventual data scientist undergoing a career change from education.
+I love to learn and am currently loving learning sql, R, Tableau and Python.
+I enjoy jazz, hikes and the occaisonal Muay Thai bout.
+Fun fact; I'm a full blooded hispanic but cannot speak my ancestral tongue!
